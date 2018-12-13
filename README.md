@@ -19,5 +19,9 @@ https://grouplens.org/datasets/movielens/
    6.Finding of a movie with all other movie.    
    7.Filtering out movie based on certain no of user that have given rating.    
 # Result:
-Successfully build a recommender system which will predict which movie should a person should also watched if he has watched a certain movie
+Successfully Build a recommender system that will predict if someone has watched certain movie she may also watch the other movies.From my recommender System i could deduce that if someone has watched Star Wars movie she may like 
+Empire Strikes Back, The (1980)	0.747981	
+Return of the Jedi (1983)	0.672556	
+Raiders of the Lost Ark (1981)	0.536117	
+Austin Powers: International Man of Mystery (1997) 0.377433	
   
