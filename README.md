@@ -1,4 +1,4 @@
-# Recommend-System:
+# Recommender-System:
 # Introduction:
 In this project i have tried to implement a Recommender System on Movie Lens Data that suggests which movie we should watch if 
 we have watched a certain movie.This i have implemented using Pearson correlation.
